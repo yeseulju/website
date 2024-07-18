@@ -1,0 +1,91 @@
+.about {
+    margin: 50px auto;
+    width:100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+    justify-content: center;
+    width: 90%;
+  }
+  
+  .about-left {
+    flex-basis: 100%; /* Adjusted to take up full width */
+    position: relative;
+  }
+  
+  .about-img {
+    width: 100%; /* Image width set to 100% to fill the container */
+    min-width: 1400px; /* Set maximum width for the image */
+    min-height: 90vh;
+    align-items: center;
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px;
+    display: flex; /* Ensures image behaves as a block element */
+    box-sizing:content-box; /* Include padding and border in total width */
+  }
+  
+  .play-icon {
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2; /* Ensure icon is above text */
+  }
+  
+  .about-right {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center; /* Center text horizontally */
+    z-index: 2; /* Ensure text is above the image */
+  }
+  
+  .about h3, .about h2, .about p {
+    font-weight: 600;
+    color: #fff; /* Text color */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 15px; /* Padding for text */
+    border-radius: 5px; /* Rounded corners */
+    position: relative; /* Ensure text remains within container */
+    max-width: 90%; /* Limit text width */
+  }
+  
+  .about h3 {
+    font-size: 36px; /* Increased font size for heading */
+    margin-bottom: 10px; /* Bottom margin for separation */
+  }
+  
+  .about h2 {
+    font-size: 48px; /* Larger font size for main title */
+    margin-bottom: 15px; /* Bottom margin for separation */
+  }
+  
+  .about p {
+    font-size: 18px; /* Font size for paragraphs */
+    line-height: 1.6; /* Increased line height for readability */
+    margin-bottom: 20px; /* Bottom margin for separation */
+  }
+  
+  /* Media Query */
+  @media (max-width: 800px) {
+    .about {
+      flex-direction: column;
+      align-items: center; /* Center items vertically */
+      text-align: center; /* Center text */
+    }
+  
+    .about-left {
+      flex-basis: 100%;
+      margin-bottom: 20px; /* Added margin-bottom for spacing */
+    }
+  
+    .about-right {
+      position: static; /* Reset position for smaller screens */
+      transform: none; /* Reset transform */
+      text-align: left; /* Left-align text for smaller screens */
+      max-width: 100%; /* Ensure text width is full */
+    }
+  }
+  
