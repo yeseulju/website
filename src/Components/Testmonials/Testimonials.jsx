@@ -41,9 +41,10 @@ const Testimonials = () => {
                                 <span>Toronto.CA</span>
                             </div>
                         </div>
-                        <p>jkljfkjklgdfkjgdfkgklfdgkjfkjgdf kjgkdfgjdfjgkdfjgkjdflgkdfk
-                            kfgkfdjgkjfdjgkldfgkdfgfdkjg fdkjgkldfjgkl fdkgj,f gdfjg, 
-                            djfklsjdkfjksdjkfjdksjfkdksfdfjsdf.
+                        <p>I feel great after taking the class. 
+                            Prior to starting Pilates I always had stiff joints in the morning and soreness on a regular basis.
+                            Now I can move in the mornings with no muscle or joint stiffness which is awesome. 
+                            I feel stronger and in better health overall since attending!
                         </p>
                     </div>
                 </li>
@@ -56,9 +57,10 @@ const Testimonials = () => {
                                 <span>Toronto.CA</span>
                             </div>
                         </div>
-                        <p>jkljfkjklgdfkjgdfkgklfdgkjfkjgdf kjgkdfgjdfjgkdfjgkjdflgkdf
-                            kfgkfdjgkjfdjgkldfgkdfgfdkjg fdkjgkldfjgkl fdkgj,f gdfjg,
-                            djfklsjdkfjksdjkfjdksjfkdksfdfjsdf.
+                        <p>I feel great after taking the class. 
+                            Prior to starting Pilates I always had stiff joints in the morning and soreness on a regular basis.
+                            Now I can move in the mornings with no muscle or joint stiffness which is awesome. 
+                            I feel stronger and in better health overall since attending!
                         </p>
                     </div>
                 </li>
@@ -71,9 +73,10 @@ const Testimonials = () => {
                                 <span>Toronto.CA</span>
                             </div>
                         </div>
-                        <p>jkljfkjklgdfkjgdfkgklfdgkjfkjgdf kjgkdfgjdfjgkdfjgkjdflgkd
-                            kfgkfdjgkjfdjgkldfgkdfgfdkjg fdkjgkldfjgkl fdkgj,f gdfjg,
-                            djfklsjdkfjksdjkfjdksjfkdksfdfjsdf.
+                        <p>I feel great after taking the class. 
+                            Prior to starting Pilates I always had stiff joints in the morning and soreness on a regular basis.
+                            Now I can move in the mornings with no muscle or joint stiffness which is awesome. 
+                            I feel stronger and in better health overall since attending!
                         </p>
                     </div>
                 </li>
@@ -86,9 +89,10 @@ const Testimonials = () => {
                                 <span>Toronto.CA</span>
                             </div>
                         </div>
-                        <p>jkljfkjklgdfkjgdfkgklfdgkjfkjgdf kjgkdfgjdfjgkdfjgkjdflgk
-                            kfgkfdjgkjfdjgkldfgkdfgfdkjg fdkjgkldfjgkl fdkgj,f gdfjg, 
-                            djfklsjdkfjksdjkfjdksjfkdksfdfjsdf.
+                        <p>I feel great after taking the class. 
+                            Prior to starting Pilates I always had stiff joints in the morning and soreness on a regular basis.
+                            Now I can move in the mornings with no muscle or joint stiffness which is awesome. 
+                            I feel stronger and in better health overall since attending!
                         </p>
                     </div>
                 </li>
