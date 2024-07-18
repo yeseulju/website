@@ -35,10 +35,10 @@ const Contact = () => {
   return (
     <div className='contact'>
         <div className="contact-col">
-            <h3>Send us a message <img src={msg_icon} alt="" /></h3>
-            <p>kdsjflkdsjfkjsdkjfksdjfjsdjk,dhfdjsjfsdjfhsdkhfsd dfkjdsfjkhsdhfjkdsfjhdsf,dfkjdsfjkhsdhfjkdsfjhdsf
-                fjhsdfhjksdkjfjsdjfhsdf,dfkdjflksjdlfkjdsf,dkfsdkjfsdjfkjdjkfsf,
-                dfjksdkfdjfjdkfdjfdjfjkjkkjkdkjdlsjfkdjfj
+             <h3>Send us a message <img src={msg_icon} alt="" /></h3>
+            <p>We eagerly await the opportunity to assist you! Should you have any inquiries or require consultation,
+               please do not hesitate to reach out to us. Rest assured, we will respond within 24 hours.
+               We are excited about the prospect of sharing a delightful Pilates experience with you.
             </p>
             <ul>
                 <li><img src={mail_icon} alt="" />Contact@gmail.com</li>
